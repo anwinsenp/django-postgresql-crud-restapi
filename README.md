@@ -4,11 +4,11 @@ This project demonstrates a CRUD REST API developed using Django REST framework 
 
 ## Prerequisites
 
-....* Python 3.7
-....* Django 2.1.15
-....* Django Rest Framework 3.11.0
-....* psycopg2 2.8.5
-....* django-cors-headers 3.2.1
+* Python 3.7
+* Django 2.1.15
+* Django Rest Framework 3.11.0
+* psycopg2 2.8.5
+* django-cors-headers 3.2.1
 
 ## Lauching REST API
 
